@@ -56,7 +56,7 @@ Unlike traditional ERP systems built for a single business model, this platform 
              └───────────┼───────────┘
                          ▼
                 Reporting & Analytics
-
+```
 ---
 
 ## 🏛️ Architecture
@@ -88,7 +88,7 @@ Unlike traditional ERP systems built for a single business model, this platform 
         ┌─────┴─────┐
         ▼           ▼
       Redis      Object Storage
-
+```
 ---
 
 ## 🏢 Multi-Tenancy
@@ -104,3 +104,5 @@ Unlike traditional ERP systems built for a single business model, this platform 
        Users          Users          Users
        Data           Data           Data
        Roles          Roles          Roles
+
+```
