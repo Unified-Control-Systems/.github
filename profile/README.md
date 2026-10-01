@@ -126,7 +126,7 @@ Unlike traditional ERP systems built for a single business model, this platform 
 * ⚙️ **Organization Settings** — Configure organization-level settings and preferences.
 * 🔧 **Business Configuration** — Configure business-specific rules and settings.
 * 🧩 **Module Activation** — Enable or disable modules based on business requirements.
-* 📨 **User Invitations** — Invite and onboard users into organizations.
+* 📨 **User Invitations** — Invite and onboard users into organizations
 
 ### 🧑‍💼 Human Resources
 
