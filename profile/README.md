@@ -175,7 +175,7 @@ Unlike traditional ERP systems built for a single business model, this platform 
 * 🤝 **Suppliers** — Manage supplier information and relationships.
 * 📥 **Goods Receipts** — Record and manage goods received from suppliers.
 * 🧾 **Supplier Invoices** — Manage invoices received from suppliers.
-* 💳 **Supplier Payments** — Track and manage payments made to suppliers.
+* 💳 **Supplier Payments** — Track and manage payments made to suppliers
 
 ### 💰 Finance
 
